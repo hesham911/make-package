@@ -3,7 +3,7 @@
 Just in your Project terminal write this:
 
 ``` bash
- composer require hesham/geeks
+ composer require hesham/hpackage
 ```
 
 ### This return view From Controller 
