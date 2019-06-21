@@ -1,5 +1,5 @@
 {
-    "name": "hesham/geeks",
+    "name": "hesham/hpackage",
     "description": "this is frist backage",
     "type": "library",
     "license": "Mit",
@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Barryvdh\\Debugbar\\ServiceProvider"
+                "hesham\\hpackage\\HpackageServiceProvider"
             ]
         }
     }
