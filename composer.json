@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "hesham\\hpackage\\": "src/"
+            "hesham\\hpackage\\": "vandor/hesham/src/"
         }
     },
     "extra": {
