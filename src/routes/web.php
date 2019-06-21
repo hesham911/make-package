@@ -2,8 +2,12 @@
 
 use Illuminate\Support\Facades\Route;
 
+
+Route::view('/','hpackage::hhome');
+
 Route::get('h',function (){
-    return 'this form Package';
+    echo '<h2 style="text-align: center;color: blue">This form Package Route</h2>';
+    return 'Done';
 });
 
 Route::group(['namespace' => 'hesham\hpackage\Http\Controllers'],function (){
