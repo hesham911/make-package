@@ -1,3 +1,5 @@
 # Test make first package 
 
-##This return view From Controller 
+## add hesham\hpackage\HpackageServiceProvider::class,
+## in your providers in config/app 
+## This return view From Controller 
