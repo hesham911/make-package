@@ -1,7 +1,7 @@
 {
     "name": "hesham/geeks",
     "description": "this is frist backage",
-    "type": "project",
+    "type": "library",
     "license": "Mit",
     "minimum-stability": "dev",
     "require": {},
