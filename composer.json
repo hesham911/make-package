@@ -1,0 +1,13 @@
+{
+    "name": "hesham/geeks",
+    "description": "this is frist backage",
+    "type": "project",
+    "license": "Mit",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "hesham\\hpackage\\": "src/"
+        }
+    }
+}
