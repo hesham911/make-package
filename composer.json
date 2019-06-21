@@ -9,5 +9,12 @@
         "psr-4": {
             "hesham\\hpackage\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Barryvdh\\Debugbar\\ServiceProvider"
+            ]
+        }
     }
 }
